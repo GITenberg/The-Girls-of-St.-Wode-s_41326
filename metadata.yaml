@@ -1,0 +1,45 @@
+_repo: The-Girls-of-St.-Wode-s_41326
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41326-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meade, L. T.
+    aliases:
+    - Meade, Lillie
+    - Meade, Mrs. L. T.
+    - Smith, Elizabeth Thomasina Meade
+    - Thomas, Elizabeth
+    - Mead, L. T.
+    - Meade, Elizabeth Thomasina
+    birthdate: 1854
+    deathdate: 1914
+    gutenberg_agent_id: '1621'
+    url: http://www.gutenberg.org/2009/agents/1621
+    wikipedia: http://en.wikipedia.org/wiki/L._T._Meade
+description: ''
+gutenberg_issued: '2012-11-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41326'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcsh 'Youth -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Students -- Juvenile fiction'
+- !lcsh 'Debt -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'Forgery -- Juvenile fiction'
+- !lcsh 'Temptation -- Juvenile fiction'
+- !lcsh 'Kindness -- Juvenile fiction'
+title: The Girls of St. Wode's
+url: http://www.gutenberg.org/ebooks/41326
